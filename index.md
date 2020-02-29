@@ -52,7 +52,8 @@ Research assistant, Purdue University, Mentor Dr. Carol Lawton
 `2012-2013`
 Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
 
-## Research Awards and Fellowships
+
+## Awards & Fellowships
 
 `2017-present`
 T32 training grant fellowship from NIAAA
