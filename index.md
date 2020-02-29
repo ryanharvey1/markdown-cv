@@ -38,31 +38,31 @@ My overall aim is to contribute to our understanding of circuit level activity u
 `2015-Present`
 Graduate Student, University of New Mexico, Mentor Dr. Benjamin Clark
 
-Contribution of the anterior thalamic head direction signal to hippocampal dynamics and spatial memory
+ * Contribution of the anterior thalamic head direction signal to hippocampal dynamics and spatial memory
 
-The impact of prenatal alcohol exposure on spatial processing
+ * The impact of prenatal alcohol exposure on spatial processing
 
 `2014-2015`
 Research Technician, Purdue University, Mentor Dr. Ryan M. Yoder
 
-Hippocampal representations of otoconia-deficient mice
+* Hippocampal representations of otoconia-deficient mice
 
 `2014-2015`
 Research assistant, Purdue University, Mentor Dr. Punya Nachappa
 
-The affect of microgravity on soybean growth
+* The affect of microgravity on soybean growth
 
 `2013-2015`
 Research assistant, Purdue University, Mentor Dr. Carol Lawton
 
-Human spatial navigation and memory in virtual environments
+* Human spatial navigation and memory in virtual environments
 
-Motion sickness in response to visual optic flow  
+* Motion sickness in response to visual optic flow  
 
 `2012-2013`
 Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
 
-Spatial navigation and memory in otoconia-deficient mice
+* Spatial navigation and memory in otoconia-deficient mice
 
 ## Awards & Fellowships
 
