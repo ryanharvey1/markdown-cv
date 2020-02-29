@@ -71,22 +71,22 @@ Martin & Preedy (Ed.) The Neuroscience of Dementia: Genetics, Neurology, Behavio
 **Harvey R.E.**, Berkowitz, L.E., Savage, D.D., Hamilton, D.A., Clark, B.J. (2020). Altered
 hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.02.11.944173v1)
 
-Harvey, R.E., Berkowitz, L.E., Hamilton, D.A., & Clark, B.J. (2019). The Effects of Developmental
+**Harvey R.E.**, Berkowitz, L.E., Hamilton, D.A., & Clark, B.J. (2019). The Effects of Developmental
 Alcohol Exposure on the Neurobiology of Spatial Processing. [Neuroscience & Biobehavioral Reviews](https://www.sciencedirect.com/science/article/pii/S0149763419303276) 
 
-Xu, Z., Wu, W., Winter, S. S., Mehlman, M. L., Butler, W. N., Simmons, C. M., Harvey, R.E.,
+Xu, Z., Wu, W., Winter, S. S., Mehlman, M. L., Butler, W. N., Simmons, C. M., **Harvey R.E.**,
 Berkowitz, L.E., Chen, Y., Taube, J.S., Wilber, A. A., & Clark, B.J. (2019). A Comparison of Neural Decoding Methods and Population Coding Across Thalamo-Cortical Head Direction Cells. [Frontiers in Neural Circuits](https://www.frontiersin.org/articles/10.3389/fncir.2019.00075/full), 13.
 
-Berkowitz, L. E., Harvey, R. E., Drake, E., Thompson, S. M., & Clark, B. J. (2018). Progressive
-impairment of directional and spatially precise trajectories by TgF344-Alzheimer’s disease rats in the Morris Water Task. Scientific reports, 8(1), 16153.
+Berkowitz, L.E., **Harvey R.E.**, Drake, E., Thompson, S.M., & Clark, B. J. (2018). Progressive
+impairment of directional and spatially precise trajectories by TgF344-Alzheimer’s disease rats in the Morris Water Task. [Scientific reports](https://www.nature.com/articles/s41598-018-34368-w), 8(1), 16153.
 
-Harvey, R. E., Rutan, S. A., Willey, G. R., Siegel, J. J., Clark, B. J., & Yoder, R. M. (2018). Linear 
+**Harvey R.E.**, Rutan, S.A., Willey, G.R., Siegel, J.J., Clark, B.J., & Yoder, R.M. (2018). Linear 
 Self-Motion Cues Support the Spatial Distribution and Stability of Hippocampal Place Cells. Current Biology, 28(11), 1803-1810.
 
-Harvey, R. E., Thompson, S., Sanchez, L., Yoder, R. M., & Clark, B. J. (2017). Post-training inactivation
+**Harvey R.E.**, Thompson, S., Sanchez, L., Yoder, R.M., & Clark, B.J. (2017). Post-training inactivation
 of the anterior thalamic nuclei impairs spatial performance on the radial arm maze. Frontiers in Neuroscience, 11, 94.
 
-Clark, B.J., Harvey, R.E., (2016). Do the anterior and lateral thalamic nuclei make distinct contributions
+Clark, B.J., **Harvey R.E.**, (2016). Do the anterior and lateral thalamic nuclei make distinct contributions
 to spatial representation and memory? Neurobiology of Learning and Memory, 133:69-78. doi:
 10.1016/j.nlm.2016.06.002.
 
