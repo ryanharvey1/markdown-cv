@@ -2,13 +2,14 @@
 layout: cv
 title: Ryan Harvey's CV
 ---
+
 # Ryan Harvey
+
 Doctoral Candidate, University of New Mexico 
 
 Department of Psychology
 
 <a href="reharvey@unm.edu">reharvey@unm.edu</a>
-
 
 <div id="webaddress">
   <a href="https://github.com/ryanharvey1"><i class="fab fa-github"></i> ryanharvey1</a> -  
@@ -17,11 +18,9 @@ Department of Psychology
   <a href="https://twitter.com/ryaneharvey"><i class="fab fa-twitter"></i> @ryaneharvey</a>
 </div>
 
-
 ## Research interests
 
 My overall aim is to contribute to our understanding of circuit level activity underlying spatial navigation and memory. Currently, my work involves understanding functional loss after developmental alcohol exposure using high-density electrophysiology recordings in behaving rodents.
-
 
 ## Education
 
@@ -33,7 +32,6 @@ My overall aim is to contribute to our understanding of circuit level activity u
 
 `2010-2014`
 **B.A., Psychology**, *Purdue University*, Fort Wayne, IN, USA.
-
 
 ## Experience
 
@@ -51,7 +49,6 @@ Research assistant, Purdue University, Mentor Dr. Carol Lawton
 
 `2012-2013`
 Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
-
 
 ## Awards & Fellowships
 
@@ -116,8 +113,6 @@ of the anterior thalamic nuclei impairs spatial performance on the radial arm ma
 Clark, B.J., **Harvey R.E.**, (2016). Do the anterior and lateral thalamic nuclei make distinct contributions
 to spatial representation and memory? Neurobiology of Learning and Memory, 133:69-78. doi:
 10.1016/j.nlm.2016.06.002. [link](https://github.com/ryanharvey1/markdown-cv/blob/gh-pages/papers/Clark%26Harvey_2016_Do%20the%20anterior%20and%20lateral%20thalamic%20nuclei%20make%20distinct%20contributions%20to%20spatial%20representation%20and%20memory.pdf)
-
-
 
 ## Conference abstracts 
 
@@ -227,16 +222,108 @@ Kirby, S. L., **Harvey R.E.**, & Yoder, R. M. (2013). Head direction signal degr
 `2013`
 **Harvey R.E.** & Yoder, R. M. (2013). The head direction signal contributes to accurate navigation in darkness. Program No. 16. 16th Annual Student Research And Creative Endeavor Symposium. Indiana University-Purdue University Fort Wayne, 2013. 
 
+## Editorial service
 
-## Editorial
+### Co-reviewer
+
+`2020`
+Wellcome Open Research
+
+### Uncredited co-reviewer
+
+`2019`
+Frontiers neural circuits
+
+`2017`
+Current biology
+
+`2017`
+Behavioral brain research
 
 ## Teaching
 
+`2017`
+Guest Lecture, Brain and Behavior, University of New Mexico
+
+`2016`
+Graduate Assistant, Brain and Behavior, University of New Mexico
+
+`2015`
+Guest Lecture, Aging and Dementia, University of New Mexico
+
+`2015`
+Graduate Assistant, Introductory Psychology, University of New Mexico
+
+`2013`
+Teaching Assistant, Psychobiology, Purdue University
+
+`2012`
+Teaching assistant, Introductory Psychology, Purdue University
+
 ## Mentorship
 
+`2020`
+Katie James, Undergraduate Research Assistant
+
+`2019`
+Monica Goncalves Garcia, Undergraduate Research Assistant (Now a Grad Student at UNM – Hamilton lab)
+
+`2017-2019`
+Jacob Ring, Honors Student
+
+`2017`	
+Danielle Benthem, Psych 499 Student (Now a Grad Student at FSU – Wilber lab)
+
+`2016-2018`	
+Joshua Rysanek, Undergraduate Research Assistant (Now with Teach For America)
+
+`2016-2019`	
+Jonathan Goss, Psych 499 Student (Now a Lab Technician at UNM — Clark Lab)
+
+`2016-2017`
+Tanner Rigg, Work Study Student (Now a Post-bacc at NIAAA –  Holmes lab)
+
+`2016`	
+Kharli Brockmeier, Undergraduate Research Assistant
+
+`2016`	
+Landri Medina, Undergraduate Research Assistant
+
+`2015-2017`	
+Elizabeth Sneddon, Psych 499 Student (Now a Grad Student at Miami U –  Radke lab)
+
+`2015-2017`
+Shannon Thompson, Post-bacc (Now a Grad Student at Miami U –  McMurray lab)
+
+`2015-2016`	
+Lilliana Sanchez, Post-bacc (Now a Graduate Student at UNM — Clark Lab)
+
+`2015`	
+Sierra Yazzie, Undergraduate Research Assistant
+
 ## Volunteer/outreach
+`2016-2019`
+New Mexico Brain Bee (organizing volunteer and judge)
+
+`2016`
+Office for Diversity, Equity & Inclusion STEAM-H (speaker)
+
+`2016`
+NeuroExpo ABQ at the New Mexico Museum of Natural History (presenter)
 
 ## Professional membership
+
+`2013-present`
+Society for neuroscience
+
+`2015`
+Association for Psychological Science
+
+`2013-2015`
+Midwestern Psychological Association
+
+`2013`
+American Society for Gravitational and Space Research
 
 ## Technical Skills
 
