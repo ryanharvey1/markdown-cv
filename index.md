@@ -52,6 +52,25 @@ Research assistant, Purdue University, Mentor Dr. Carol Lawton
 `2012-2013`
 Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
 
+## Research Awards and Fellowships
+
+`2017-present`
+T32 training grant fellowship from NIAAA
+
+`2017`
+Presentation Award, Psychology research day, University of New Mexico
+
+`2016 & 2017`
+Student conference award program travel award, University of New Mexico
+
+`2016`
+Poster Award, Psychology research day, University of New Mexico
+
+`2015`
+Poster award, Student research & creative endeavor symposium, Purdue University
+
+`2014`
+Research, engagement, and sponsored program research scholarship, Purdue University
 
 ## Publications
 
@@ -95,27 +114,6 @@ of the anterior thalamic nuclei impairs spatial performance on the radial arm ma
 Clark, B.J., **Harvey R.E.**, (2016). Do the anterior and lateral thalamic nuclei make distinct contributions
 to spatial representation and memory? Neurobiology of Learning and Memory, 133:69-78. doi:
 10.1016/j.nlm.2016.06.002. [link](https://github.com/ryanharvey1/markdown-cv/blob/gh-pages/papers/Clark%26Harvey_2016_Do%20the%20anterior%20and%20lateral%20thalamic%20nuclei%20make%20distinct%20contributions%20to%20spatial%20representation%20and%20memory.pdf)
-
-
-## Research Awards and Fellowships
-
-`2017-present`
-T32 training grant fellowship from NIAAA
-
-`2017`
-Presentation Award, Psychology research day, University of New Mexico
-
-`2016 & 2017`
-Student conference award program travel award, University of New Mexico
-
-`2016`
-Poster Award, Psychology research day, University of New Mexico
-
-`2015`
-Poster award, Student research & creative endeavor symposium, Purdue University
-
-`2014`
-Research, engagement, and sponsored program research scholarship, Purdue University
 
 
 ## Publications
