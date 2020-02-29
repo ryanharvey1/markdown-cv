@@ -84,7 +84,7 @@ Research, engagement, and sponsored program research scholarship, Purdue Univers
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ).
+*Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=3aAH9kEAAAAJ&hl=en&oi=sra).
 
 ### In review
 
