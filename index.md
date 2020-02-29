@@ -13,7 +13,7 @@ Department of Psychology
 
 <div id="webaddress">
   <a href="https://github.com/ryanharvey1"><i class="fab fa-github"></i> ryanharvey1</a> -  
-  <a href="https://orcid.org/0000-0002-4622-4494"><i class="ai ai-orcid"></i> 0000-0002-4622-4494</a> </a><br/>
+  <a href="https://orcid.org/0000-0002-4622-4494"><i class="ai ai-orcid"></i> 0000-0002-4622-4494</a> <br/>
   <a href="https://www.researchgate.net/profile/Ryan_Harvey2"><i class="ai ai-researchgate"></i> Ryan_Harvey2</a> - 
   <a href="https://twitter.com/ryaneharvey"><i class="fab fa-twitter"></i> @ryaneharvey</a>
 </div>
