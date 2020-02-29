@@ -241,8 +241,6 @@ Kirby, S. L., **Harvey R.E.**, & Yoder, R. M. (2013). Head direction signal degr
 `2020`
 Wellcome Open Research
 
-### Uncredited co-reviewer
-
 `2019`
 Frontiers neural circuits
 
