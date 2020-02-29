@@ -192,8 +192,17 @@ Kirby, S. L., **Harvey R.E.**, & Yoder, R. M. (2013). Head direction signal degr
 **Harvey R.E.** & Yoder, R. M. (2013). The head direction signal contributes to accurate navigation in darkness. Program No. 16. 16th Annual Student Research And Creative Endeavor Symposium. Indiana University-Purdue University Fort Wayne, 2013. 
 
 
+## Editorial
 
+## Teaching
 
+## Mentorship
+
+## Volunteer/outreach
+
+## Professional membership
+
+## Technical Skills
 
 <!-- ### Footer
 
