@@ -316,6 +316,9 @@ NeuroExpo ABQ at the New Mexico Museum of Natural History (presenter)
 `2013-present`
 Society for neuroscience
 
+`2017`
+Research Society on Alcoholism
+
 `2015`
 Association for Psychological Science
 
@@ -326,6 +329,14 @@ Midwestern Psychological Association
 American Society for Gravitational and Space Research
 
 ## Technical Skills
+
+* Animal Behavior: rat handling and training on a range of spatial navigation and memory tasks, behavioral scoring, design of novel behavioral tasks to investigate the function of the hippocampus / anterior thalamus and spatial systems.
+
+* In vivo Electrophysiology: Microdrive / hyperdrive construction for targeting of multiple brain regions simultaneously, surgical microdrive implantation, single unit recordings in awakebehaving rats (Neuralynx, Open Ephys), spike sorting (Kilosort, Phy, Mclust, Spike sort 3D).
+
+* MATLAB, python, & R for analysis of electrophysiological data
+
+* Tissue preparation, staining, and immunohistochemistry.
 
 <!-- ### Footer
 
