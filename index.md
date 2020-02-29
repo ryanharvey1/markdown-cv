@@ -1,28 +1,43 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ryan Harvey's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ryan Harvey
+Doctoral Candidate, University of New Mexico 
+
+Department of Psychology
+
+<a href="reharvey[at]unm.edu">reharvey[at]unm.edu/a>
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://scholar.google.com/citations?user=3aAH9kEAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i> google scholar</a> - 
+  <a href="https://github.com/ryanharvey1"><i class="fab fa-github"></i> ryanharvey1</a> - 
+  <a href="https://orcid.org/0000-0002-4622-4494"><i class="ai ai-orcid"></i> 0000-0002-4622-4494</a> - 
+  <a href="https://www.researchgate.net/profile/Ryan_Harvey2"><i class="ai ai-researchgate"></i> Ryan_Harvey2</a> - 
+  <a href="https://twitter.com/ryaneharvey"><i class="fab fa-twitter"></i> @ryaneharvey</a>
 </div>
 
 
-## Currently
+## Research interests
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+My overall aim is to contribute to our understanding of circuit level mechanisms underlying  spatial navigation and memory with emphasis on place and head direction systems. Currently, my work involves understanding functional loss after developmental alcohol exposure using high-density electrophysiology recordings in behaving rodents.
 
 
-### Research interests
+## Education
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2015-present`
+**Ph.D., Psychology**, *University of New Mexico*, Albuquerque, NM, USA.
+
+`2015-2006`
+**M.Sc., Psychology**, *University of New Mexico*, Albuquerque, NM, USA.
+
+`2010-2014`
+**Ph.D., Psychology**, *University of New Mexico*, Albuquerque, NM, USA.
+
+`2015-2006`
+**M.Sc., Psychology**, *University of New Mexico*, Albuquerque, NM, USA.
+
 
 
 ## Education
