@@ -27,7 +27,7 @@ My overall aim is to contribute to our understanding of circuit level activity u
 `2015-present`
 **Ph.D., Psychology**, *University of New Mexico*, Albuquerque, NM, USA.
 
-`2015-2006`
+`2015-2016`
 **M.Sc., Psychology**, *University of New Mexico*, Albuquerque, NM, USA.
 
 `2010-2014`
