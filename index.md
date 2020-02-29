@@ -38,17 +38,31 @@ My overall aim is to contribute to our understanding of circuit level activity u
 `2015-Present`
 Graduate Student, University of New Mexico, Mentor Dr. Benjamin Clark
 
+Contribution of the anterior thalamic head direction signal to hippocampal dynamics and spatial memory
+
+The impact of prenatal alcohol exposure on spatial processing
+
 `2014-2015`
 Research Technician, Purdue University, Mentor Dr. Ryan M. Yoder
+
+Hippocampal representations of otoconia-deficient mice
 
 `2014-2015`
 Research assistant, Purdue University, Mentor Dr. Punya Nachappa
 
+The affect of microgravity on soybean growth
+
 `2013-2015`
 Research assistant, Purdue University, Mentor Dr. Carol Lawton
 
+Human spatial navigation and memory in virtual environments
+
+Motion sickness in response to visual optic flow  
+
 `2012-2013`
 Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
+
+Spatial navigation and memory in otoconia-deficient mice
 
 ## Awards & Fellowships
 
@@ -198,7 +212,7 @@ Lawton C. A., **Harvey R.E.**, Horton, A. H., Terry, C. A., Serna, C. E. (2015).
 Lawton C. A., **Harvey R.E.**, Horton, A. H., Terry, C. A., Serna, C. E. (2015). Sex Differences in Perceived Self-Movement in a Stereoscopic Head-Mounted Display. Poster presented at the Midwestern Psychological Association, Chicago, IL.
 
 `2015`
-**Harvey R.E.**, Horton, A. H., Serna, C. E., Terry, C. A.(2015). Video game experience: Perception of self motion and motion sickness in the virtual world. 18th Annual Student Research And Creative Endeavor Symposium. Indiana University-Purdue University Fort Wayne, 2015.
+**Harvey R.E.**, Horton, A. H., Serna, C. E., Terry, C. A.(2015). Video game experience: Perception of self motion and motion sickness in the virtual world. 18th Annual Student Research And Creative Endeavor Symposium. Purdue University Fort Wayne, 2015.
 
 `2014`
 **Harvey R.E.** & Yoder, R. M. (2014). Previous training improves egocentric navigation performance in otoconia-deficient mice. Poster presented at the Midwestern Psychological Association, Chicago, IL.
@@ -207,7 +221,7 @@ Lawton C. A., **Harvey R.E.**, Horton, A. H., Terry, C. A., Serna, C. E. (2015).
 Lawton, C. A., Brockman, S. N., Goebel, E. A., Long, A. M., Phillips, E. L., **Harvey R.E.**, Kirby, S. L.,	& Rosbrugh, H. H. (2014). Sex, handedness, and virtual navigation. Poster presented at the 	Midwestern Psychological Association, Chicago, IL.
 
 `2014`
-**Harvey R.E.** (2014). Pretraining improves egocentric navigation performance in otoconia-deficient mice.17th Annual Student Research And Creative Endeavor Symposium. Indiana University-Purdue University Fort Wayne, 2014. 
+**Harvey R.E.** (2014). Pretraining improves egocentric navigation performance in otoconia-deficient mice.17th Annual Student Research And Creative Endeavor Symposium. Purdue University Fort Wayne, 2014. 
 
 `2013`
 Kirby, S. L., **Harvey R.E.**, Goebel, E. A., Köppen, J. R., Wallace, D. G., & Yoder, R. M. (2013) Head direction signal degradation impairs spatial learning. Poster presented at Society for Neuroscience, San
@@ -220,7 +234,7 @@ Diego, CA.
 Kirby, S. L., **Harvey R.E.**, & Yoder, R. M. (2013). Head direction signal degradation contributes to navigation impairments. Poster presented at the Midwestern Psychological Association, Chicago, IL.
 
 `2013`
-**Harvey R.E.** & Yoder, R. M. (2013). The head direction signal contributes to accurate navigation in darkness. Program No. 16. 16th Annual Student Research And Creative Endeavor Symposium. Indiana University-Purdue University Fort Wayne, 2013. 
+**Harvey R.E.** & Yoder, R. M. (2013). The head direction signal contributes to accurate navigation in darkness. Program No. 16. 16th Annual Student Research And Creative Endeavor Symposium. Purdue University Fort Wayne, 2013. 
 
 ## Editorial service
 
@@ -330,13 +344,15 @@ American Society for Gravitational and Space Research
 
 ## Technical Skills
 
-Animal Behavior: rat handling and training on a range of spatial navigation and memory tasks, behavioral scoring, design of novel behavioral tasks to investigate the function of the hippocampus / anterior thalamus and spatial systems.
+Animal Behavior: rat handling and training on a range of spatial navigation and memory tasks, behavioral scoring, design of novel behavioral tasks to investigate the function of spatial systems
 
-In vivo Electrophysiology: Microdrive / hyperdrive construction for targeting of multiple brain regions simultaneously, surgical microdrive implantation, single unit recordings in awakebehaving rats (Neuralynx, Open Ephys), spike sorting (Kilosort, Phy, Mclust, Spike sort 3D).
+In vivo Electrophysiology: Micro-drive / hyper-drive custom construction for targeting of multiple brain regions simultaneously, surgical micro-drive implantation, single unit recordings in awake behaving rats (Neuralynx, Open Ephys), spike sorting (Kilosort, Phy, Mclust, Spike sort 3D)
 
-MATLAB, python, & R for analysis of electrophysiological data
+In vivo drug infusion: Construction and use of custom infusion device for drug delivery to multiple brain regions. 
 
-Tissue preparation, staining, and immunohistochemistry.
+MATLAB, python, & R for analysis and management of electrophysiological and behavioral data
+
+Tissue preparation, staining, and immunohistochemistry
 
 <!-- ### Footer
 
