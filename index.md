@@ -7,7 +7,7 @@ Doctoral Candidate, University of New Mexico
 
 Department of Psychology
 
-<a href="reharvey[at]unm.edu">reharvey[at]unm.edu</a>
+<a href="reharvey@unm.edu">reharvey@unm.edu</a>
 
 
 <div id="webaddress">
@@ -41,13 +41,13 @@ My overall aim is to contribute to our understanding of circuit level mechanisms
 Graduate Student, University of New Mexico, Mentor Dr. Benjamin Clark
 
 `2014-2015`
+Research Technician, Purdue University, Mentor Dr. Ryan M. Yoder
+
+`2014-2015`
 Research assistant, Purdue University, Mentor Dr. Punya Nachappa
 
 `2013-2015`
 Research assistant, Purdue University, Mentor Dr. Carol Lawton
-
-`2014-2015`
-Research Technician, Purdue University, Mentor Dr. Ryan M. Yoder
 
 `2012-2013`
 Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
@@ -97,7 +97,25 @@ to spatial representation and memory? Neurobiology of Learning and Memory, 133:6
 10.1016/j.nlm.2016.06.002. [link](https://github.com/ryanharvey1/markdown-cv/blob/gh-pages/papers/Clark%26Harvey_2016_Do%20the%20anterior%20and%20lateral%20thalamic%20nuclei%20make%20distinct%20contributions%20to%20spatial%20representation%20and%20memory.pdf)
 
 
-## Awards
+## Research Awards and Fellowships
+
+`2017-present`
+T32 training grant fellowship from NIAAA
+
+`2017`
+Presentation Award, Psychology research day, University of New Mexico
+
+`2016 & 2017`
+Student conference award program travel award, University of New Mexico
+
+`2016`
+Poster Award, Psychology research day, University of New Mexico
+
+`2015`
+Poster award, Student research & creative endeavor symposium, Purdue University
+
+`2014`
+Research, engagement, and sponsored program research scholarship, Purdue University
 
 
 ## Publications
