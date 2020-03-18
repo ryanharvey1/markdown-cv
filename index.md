@@ -20,7 +20,7 @@ Department of Psychology
 
 ## Research interests
 
-My overall aim is to contribute to our understanding of circuit level activity underlying spatial navigation and memory. Currently, my work involves understanding functional loss after developmental alcohol exposure using high-density electrophysiology recordings in behaving rodents.
+My overall aim is to contribute to our understanding of circuit level dynamics that give rise to spatial navigation and memory.  Currently, my work involves understanding functional loss after developmental alcohol exposure using high-density electrophysiology recordings in behaving rodents.
 
 ## Education
 
@@ -352,6 +352,6 @@ Tissue preparation, staining, and immunohistochemistry
 
 <!-- ### Footer
 
-Last updated: Feb 2020 -->
+Last updated: March 2020 -->
 
 
