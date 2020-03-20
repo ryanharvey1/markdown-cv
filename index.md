@@ -49,7 +49,7 @@ Research Technician, Purdue University, Mentor Dr. Ryan M. Yoder
 `2014-2015`
 Research assistant, Purdue University, Mentor Dr. Punya Nachappa
 
-- \- The affect of microgravity on soybean growth
+- \- The effect of microgravity on soybean growth
 
 `2013-2015`
 Research assistant, Purdue University, Mentor Dr. Carol Lawton
