@@ -92,8 +92,7 @@ Research, engagement, and sponsored program research scholarship, Purdue Univers
 hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure. 
 
 ### In press
-Berkowitz L.E., Harvey R.E., Clark B.J. (In Press). Spatial Navigation and Alzheimer’s disease. In:
-Martin & Preedy (Ed.) The Neuroscience of Dementia: Genetics, Neurology, Behavior, and Diet.
+Berkowitz L.E., Harvey R.E., Clark B.J. (2020). Spatial Navigation and Alzheimer’s disease. In: C. Martin & V.R. Preedy (Eds.), The Neuroscience of Dementia: Genetics, Neurology, Behavior, and Diet in Dementia (1st ed., Vol. 2, pp. in press). Academic Press. [link](https://www.elsevier.com/books/genetics-neurology-behavior-and-diet-in-dementia/martin/978-0-12-815868-5)
 
 ### Published
 
