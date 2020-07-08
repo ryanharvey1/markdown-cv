@@ -38,7 +38,7 @@ My overall aim is to contribute to our understanding of circuit level dynamics t
 `2015-Present`
 Graduate Student, University of New Mexico, Mentor Dr. Benjamin Clark
 
-- \- Contribution of the anterior thalamic head direction signal to hippocampal dynamics and spatial memory
+- \- Contribution of the thalamic directional signal to hippocampal dynamics and spatial memory
 - \- The impact of prenatal alcohol exposure on spatial processing
 
 `2014-2015`
