@@ -98,7 +98,7 @@ hippocampal place cell representation and theta rhythmicity following moderate p
 hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure. *BioRxiv* [link](https://github.com/ryanharvey1/markdown-cv/blob/gh-pages/papers/Harvey%20et%20al_2020_Altered%20hippocampal%20place%20cell%20representation%20and%20theta%20rhythmicity%20following%20moderate%20prenatal%20alcohol%20exposure.pdf)
 
 `2020`
-Berkowitz L.E., Harvey R.E., Clark B.J. (2020). Spatial Navigation and Alzheimer’s disease. In: C. Martin & V.R. Preedy (Eds.), The Neuroscience of Dementia: Genetics, Neurology, Behavior, and Diet in Dementia (1st ed., Vol. 2, pp. in press). Academic Press. [link](https://www.elsevier.com/books/genetics-neurology-behavior-and-diet-in-dementia/martin/978-0-12-815868-5)
+Berkowitz L.E., **Harvey R.E.**, Clark B.J. (2020). Spatial Navigation and Alzheimer’s disease. In: C. Martin & V.R. Preedy (Eds.), The Neuroscience of Dementia: Genetics, Neurology, Behavior, and Diet in Dementia (1st ed., Vol. 2, pp. in press). Academic Press. [link](https://www.elsevier.com/books/genetics-neurology-behavior-and-diet-in-dementia/martin/978-0-12-815868-5)
 
 `2019`
 **Harvey R.E.**, Berkowitz, L.E., Hamilton, D.A., & Clark, B.J. (2019). The Effects of Developmental
