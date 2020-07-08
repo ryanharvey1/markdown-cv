@@ -64,7 +64,7 @@ Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
 
 ## Awards & Fellowships
 
-`2017-present`
+`2017-2020`
 T32 training grant fellowship from NIAAA
 
 `2017`
