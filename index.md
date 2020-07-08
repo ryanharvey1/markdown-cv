@@ -345,7 +345,7 @@ In vivo Electrophysiology: Micro-drive / hyper-drive custom construction for tar
 
 In vivo drug infusion: Construction and use of custom infusion device for drug delivery to multiple brain regions. 
 
-MATLAB, python, & R for analysis and management of electrophysiological and behavioral data
+Python, Matlab, & R for analysis and management of electrophysiological and behavioral data
 
 Tissue preparation, staining, and immunohistochemistry
 
