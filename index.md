@@ -86,16 +86,11 @@ Research, engagement, and sponsored program research scholarship, Purdue Univers
 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=3aAH9kEAAAAJ&hl=en&oi=sra).
 
-### In review
-
-**Harvey R.E.**, Berkowitz, L.E., Savage, D.D., Hamilton, D.A., Clark, B.J. (in review). Altered
-hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure.
-
 ### Published
 
 `2020`
 **Harvey R.E.**, Berkowitz, L.E., Savage, D.D., Hamilton, D.A., Clark, B.J. (2020). Altered
-hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure. *BioRxiv* [link](https://github.com/ryanharvey1/markdown-cv/blob/gh-pages/papers/Harvey%20et%20al_2020_Altered%20hippocampal%20place%20cell%20representation%20and%20theta%20rhythmicity%20following%20moderate%20prenatal%20alcohol%20exposure.pdf)
+hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure. Current Biology [link](https://github.com/ryanharvey1/markdown-cv/blob/gh-pages/papers/Harvey%20et%20al_2020_Altered%20Hippocampal%20Place%20Cell%20Representation%20and%20Theta%20Rhythmicity%20following%20Moderate%20Prenatal%20Alcohol%20Exposure2.pdf)
 
 `2020`
 Berkowitz L.E., **Harvey R.E.**, Clark B.J. (2020). Spatial Navigation and Alzheimer’s disease. In: C. Martin & V.R. Preedy (Eds.), The Neuroscience of Dementia: Genetics, Neurology, Behavior, and Diet in Dementia (1st ed., Vol. 2, pp. in press). Academic Press. [link](https://www.elsevier.com/books/genetics-neurology-behavior-and-diet-in-dementia/martin/978-0-12-815868-5)
