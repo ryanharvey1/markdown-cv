@@ -62,6 +62,11 @@ Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
 
 - \- Spatial navigation and memory in otoconia-deficient mice
 
+## Additional education
+
+`2020`
+Neuromatch Academy (interactive track)
+
 ## Awards & Fellowships
 
 `2017-2020`
@@ -332,7 +337,7 @@ Midwestern Psychological Association
 `2013`
 American Society for Gravitational and Space Research
 
-## Technical Skills
+## Technical skills
 
 Animal Behavior: rat handling and training on a range of spatial navigation and memory tasks, behavioral scoring, design of novel behavioral tasks to investigate the function of spatial systems
 
@@ -343,6 +348,7 @@ In vivo drug infusion: Construction and use of custom infusion device for drug d
 Python, Matlab, & R for analysis and management of electrophysiological and behavioral data
 
 Tissue preparation, staining, and immunohistochemistry
+
 
 <!-- ### Footer
 
