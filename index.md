@@ -320,7 +320,7 @@ Office for Diversity, Equity & Inclusion STEAM-H (speaker)
 `2016`
 NeuroExpo ABQ at the New Mexico Museum of Natural History (presenter)
 
-## Professional membership
+## Membership
 
 `2013-present`
 Society for neuroscience
