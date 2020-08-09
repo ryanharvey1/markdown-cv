@@ -310,7 +310,7 @@ Lilliana Sanchez, Post-bacc (Now a Graduate Student at UNM — Clark Lab)
 `2015`	
 Sierra Yazzie, Undergraduate Research Assistant
 
-## Volunteer/outreach
+## Outreach
 `2016-2019`
 New Mexico Brain Bee (organizing volunteer and judge)
 
