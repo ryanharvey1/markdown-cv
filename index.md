@@ -75,7 +75,7 @@ T32 training grant fellowship from NIAAA
 `2017`
 Presentation Award, Psychology research day, University of New Mexico
 
-`2016 & 2017`
+`2016-2017`
 Student conference award program travel award, University of New Mexico
 
 `2016`
@@ -352,6 +352,6 @@ Tissue preparation, staining, and immunohistochemistry
 
 <!-- ### Footer
 
-Last updated: March 2020 -->
+Last updated: August 2020 -->
 
 
