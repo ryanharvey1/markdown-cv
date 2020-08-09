@@ -70,7 +70,7 @@ Neuromatch Academy (interactive track)
 ## Awards
 
 `2017-2020`
-T32 training grant fellowship from NIAAA
+T32 training grant fellowship from NIAAA [link](https://hsc.unm.edu/school-of-medicine/neurosciences/research/alcohol-research-training-program.html)
 
 `2017`
 Presentation Award, Psychology research day, University of New Mexico
