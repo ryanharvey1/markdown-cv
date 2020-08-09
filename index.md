@@ -67,7 +67,7 @@ Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
 `2020`
 Neuromatch Academy (interactive track)
 
-## Awards & Fellowships
+## Awards
 
 `2017-2020`
 T32 training grant fellowship from NIAAA
