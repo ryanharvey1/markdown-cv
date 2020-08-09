@@ -62,7 +62,7 @@ Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
 
 - \- Spatial navigation and memory in otoconia-deficient mice
 
-## Additional education
+## Other education
 
 `2020`
 Neuromatch Academy (interactive track)
@@ -125,7 +125,7 @@ Clark, B.J., **Harvey R.E.**, (2016). Do the anterior and lateral thalamic nucle
 to spatial representation and memory? Neurobiology of Learning and Memory, 133:69-78. doi:
 10.1016/j.nlm.2016.06.002. [link](https://github.com/ryanharvey1/markdown-cv/blob/gh-pages/papers/Clark%26Harvey_2016_Do%20the%20anterior%20and%20lateral%20thalamic%20nuclei%20make%20distinct%20contributions%20to%20spatial%20representation%20and%20memory.pdf)
 
-## Conference posters 
+## Posters/talks
 
 `2019`
 **Harvey R.E.**, Berkowitz, L.E., Savage, D.D., Hamilton, D.A., Clark, B.J. (2019, October). Hippocampal CA1, CA3, and dentate gyrus place cell firing characteristics in a rat model of moderate prenatal alcohol exposure. Poster presented at the Society for Neuroscience Conference. Chicago, IL. 
@@ -337,7 +337,7 @@ Midwestern Psychological Association
 `2013`
 American Society for Gravitational and Space Research
 
-## Technical skills
+## Skills
 
 Animal Behavior: rat handling and training on a range of spatial navigation and memory tasks, behavioral scoring, design of novel behavioral tasks to investigate the function of spatial systems
 
