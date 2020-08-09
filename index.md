@@ -94,7 +94,7 @@ Research, engagement, and sponsored program research scholarship, Purdue Univers
 ### Published
 
 `2020`
-**Harvey R.E.**, Berkowitz, L.E., Savage, D.D., Hamilton, D.A., Clark, B.J. (2020). Altered
+* **Harvey R.E.**, Berkowitz, L.E., Savage, D.D., Hamilton, D.A., Clark, B.J. (2020). Altered
 hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure. Current Biology [link](https://github.com/ryanharvey1/markdown-cv/blob/gh-pages/papers/Harvey%20et%20al_2020_Altered%20Hippocampal%20Place%20Cell%20Representation%20and%20Theta%20Rhythmicity%20following%20Moderate%20Prenatal%20Alcohol%20Exposure2.pdf)
 
 `2020`
