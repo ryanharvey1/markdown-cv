@@ -62,7 +62,8 @@ Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
 
 - \- Spatial navigation and memory in otoconia-deficient mice
 
-## Additional \n education
+## Additional<br/>
+education
 
 `2020`
 Neuromatch Academy (interactive track)
