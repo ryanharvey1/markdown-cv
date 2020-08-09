@@ -24,7 +24,7 @@ My overall aim is to contribute to our understanding of circuit level dynamics t
 
 ## Education
 
-`2015-present`
+`2015-2021(expected)`
 **Ph.D., Psychology**, *University of New Mexico*, Albuquerque, NM, USA.
 
 `2015-2016`
@@ -35,7 +35,7 @@ My overall aim is to contribute to our understanding of circuit level dynamics t
 
 ## Experience
 
-`2015-Present`
+`2015-2021(expected)`
 Graduate Student, University of New Mexico, Mentor Dr. Benjamin Clark
 
 - \- Contribution of the anterior thalamus to hippocampal dynamics and spatial memory
