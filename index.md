@@ -18,9 +18,9 @@ Department of Psychology
   <a href="https://twitter.com/ryaneharvey"><i class="fab fa-twitter"></i> @ryaneharvey</a>
 </div>
 
-## Research interests
+## Interests
 
-My overall aim is to contribute to our understanding of circuit level dynamics that give rise to spatial navigation and memory. My work involves understanding functional loss after developmental alcohol exposure using high-density electrophysiology recordings in behaving rodents.
+My aim is to contribute to our understanding of circuit level dynamics that give rise to spatial navigation and memory. My recent work involves understanding functional loss after developmental alcohol exposure using high-density electrophysiology recordings in behaving rodents.
 
 ## Education
 
